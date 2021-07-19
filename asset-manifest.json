@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-02-phonebook.git/static/css/main.c5be45e4.chunk.css",
-    "main.js": "/goit-react-hw-02-phonebook.git/static/js/main.5344895a.chunk.js",
-    "main.js.map": "/goit-react-hw-02-phonebook.git/static/js/main.5344895a.chunk.js.map",
+    "main.css": "/goit-react-hw-02-phonebook.git/static/css/main.9fc3b860.chunk.css",
+    "main.js": "/goit-react-hw-02-phonebook.git/static/js/main.0becd66d.chunk.js",
+    "main.js.map": "/goit-react-hw-02-phonebook.git/static/js/main.0becd66d.chunk.js.map",
     "runtime-main.js": "/goit-react-hw-02-phonebook.git/static/js/runtime-main.ce5044ff.js",
     "runtime-main.js.map": "/goit-react-hw-02-phonebook.git/static/js/runtime-main.ce5044ff.js.map",
     "static/js/2.7b65cd32.chunk.js": "/goit-react-hw-02-phonebook.git/static/js/2.7b65cd32.chunk.js",
     "static/js/2.7b65cd32.chunk.js.map": "/goit-react-hw-02-phonebook.git/static/js/2.7b65cd32.chunk.js.map",
     "index.html": "/goit-react-hw-02-phonebook.git/index.html",
-    "static/css/main.c5be45e4.chunk.css.map": "/goit-react-hw-02-phonebook.git/static/css/main.c5be45e4.chunk.css.map",
+    "static/css/main.9fc3b860.chunk.css.map": "/goit-react-hw-02-phonebook.git/static/css/main.9fc3b860.chunk.css.map",
     "static/js/2.7b65cd32.chunk.js.LICENSE.txt": "/goit-react-hw-02-phonebook.git/static/js/2.7b65cd32.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ce5044ff.js",
     "static/js/2.7b65cd32.chunk.js",
-    "static/css/main.c5be45e4.chunk.css",
-    "static/js/main.5344895a.chunk.js"
+    "static/css/main.9fc3b860.chunk.css",
+    "static/js/main.0becd66d.chunk.js"
   ]
 }
